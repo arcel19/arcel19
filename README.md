@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arcel19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, video games, basketball and animes
+- 🌱 I’m currently learning computer engineering 
+- 💞️ I’m looking to collaborate on competitive projects 
 - 📫 How to reach me WhatsApp:695717330
 
 <!---
